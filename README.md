@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="Alya's GitHub profile banner">
+</p>
+
 ## Hi there 👋
 
 <!--
